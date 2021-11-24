@@ -2,7 +2,7 @@
 ## Project Description
 A real-time braille translation program which helps the blind using Keyless Screens(or reading any products with text without braille notation). They can get specific information at where they're currently pointing with their finger. The information can be displayed as braille on Dot Watch or spoken to the user via their smartphones.
 
-## UML Diagram
+## UML Diagram and Code Structure
 
 ![uml diagram](https://user-images.githubusercontent.com/68358806/142745130-bb669856-b11a-4d9e-9ae8-d2193b5e7685.jpg)
 
