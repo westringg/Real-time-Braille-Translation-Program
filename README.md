@@ -8,3 +8,5 @@ A real-time braille translation program which helps the blind using Keyless Scre
 
 Thread is used to alleviate the delay of real-time translation due to the time consumption of interacting with OCR API and SMS API. (It was not able to communicate directly with Dot Watch at the moment-not accessible to its internal system of notification. Thus, I sent the text retrieved from OCR API to Dot Watch so that it appears on Dot Watch as the content of message it received.)
 The main thread runs the OpencvOcrExample class, while the sub thread runs UpdateLatestImages class to continuously update the latest image taken from the camera.
+
+This program has applied for a patent.
